@@ -1,0 +1,14 @@
+{
+  "name": "rabbid",
+  "version": "1.0.0",
+  "description": "test rabbitmq",
+  "main": "receive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fleur Kelpin",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.5.5"
+  }
+}
